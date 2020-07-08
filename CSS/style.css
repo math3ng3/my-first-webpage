@@ -1,3 +1,12 @@
 h1 {
-    color: rgb(255, 0, 98);
+    color: #ff338c;
+    text-align: center;
   }
+h2 {
+    color: aqua;
+    font-style: italic;
+    text-align: center;
+  }
+p  {
+    font-family: sans-serif;
+}
